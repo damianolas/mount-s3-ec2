@@ -1,0 +1,1 @@
+s3fs#NOMEBUCKET /mnt/CARTELLANOMEBUCKET fuse allow_other,use_cache=/var/s3fs_cache,uid=UTENTELINUX,gid=GRUPPOLINUX,umask=000 0 0
